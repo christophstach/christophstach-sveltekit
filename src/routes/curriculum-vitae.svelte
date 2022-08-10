@@ -1,6 +1,6 @@
 <script>
-import Education from '../components/Education.svelte';
-import Experience from '../components/Experience.svelte';
+import Education from '@components/Education.svelte';
+import Experience from '@components/Experience.svelte';
 </script>
 
 <svelte:head>

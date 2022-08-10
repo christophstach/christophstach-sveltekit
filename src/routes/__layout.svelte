@@ -1,6 +1,6 @@
 <script>
 	import '../app.css';
-	import Navigation from '../components/Navigation.svelte';
+	import Navigation from '@components/Navigation.svelte';
 </script>
 
 <div class="min-h-screen pb-2 bg-hero-floating-cogs md:pb-10">
