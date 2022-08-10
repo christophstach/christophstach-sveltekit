@@ -5,7 +5,7 @@
 	<title>Christoph Stach - Home</title>
 </svelte:head>
 
-<div class="prose prose-sm">
+<div class="prose prose-sm prose-indigo max-w-none">
 	<h1>Age nunc isti doceant, vel tu potius quis enim ista melius?</h1>
 
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <i>Istam voluptatem, inquit, Epicurus ignorat?</i> Quasi ego id curem, quid ille aiat aut neget. Memini me adesse P. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> </p>
