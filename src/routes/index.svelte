@@ -5,32 +5,28 @@
 	<title>Christoph Stach - Home</title>
 </svelte:head>
 
-<div class="prose prose-sm prose-indigo max-w-none">
-	<h1>Age nunc isti doceant, vel tu potius quis enim ista melius?</h1>
+<div>
+	<h3 class="text-lg">Hi my name is Christoph,</h3>
 
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <i>Istam voluptatem, inquit, Epicurus ignorat?</i> Quasi ego id curem, quid ille aiat aut neget. Memini me adesse P. <a href='http://loripsum.net/' target='_blank'>Duo Reges: constructio interrete.</a> </p>
-	
-	<p>Qualem igitur hominem natura inchoavit? An tu me de L. <i>Sed haec in pueris;</i> Vide, quaeso, rectumne sit. Sint ista Graecorum; <b>Ea possunt paria non esse.</b> </p>
-	
-	<ul>
-		<li>An vero displicuit ea, quae tributa est animi virtutibus tanta praestantia?</li>
-		<li>Est autem officium, quod ita factum est, ut eius facti probabilis ratio reddi possit.</li>
-		<li>Ergo illi intellegunt quid Epicurus dicat, ego non intellego?</li>
-		<li>Atque haec ita iustitiae propria sunt, ut sint virtutum reliquarum communia.</li>
-		<li>Et harum quidem rerum facilis est et expedita distinctio.</li>
-	</ul>
-	
-	
-	<blockquote cite='http://loripsum.net'>
-		Quaero igitur, quo modo hae tantae commendationes a natura profectae subito a sapientia relictae sint.
-	</blockquote>
-	
-	
-	<ol>
-		<li>At vero illa, quae Peripatetici, quae Stoici dicunt, semper tibi in ore sunt in iudiciis, in senatu.</li>
-		<li>Longum est enim ad omnia respondere, quae a te dicta sunt.</li>
-		<li>Non quaero, quid dicat, sed quid convenienter possit rationi et sententiae suae dicere.</li>
-		<li>Conclusum est enim contra Cyrenaicos satis acute, nihil ad Epicurum.</li>
-		<li>Tantum dico, magis fuisse vestrum agere Epicuri diem natalem, quam illius testamento cavere ut ageretur.</li>
-	</ol>	
+	<p class="prose prose-sm prose-indigo max-w-none">
+        I started software development at the age of 13. It quickly became a passion for me and I started to code my 
+        first small projects and websites. I found most interest in websites. These days they were still developed with HTML 
+        frame sets and some very basic <a href="https://www.php.net/">PHP</a> scripts.
+	<p/>
+
+	<p class="prose prose-sm prose-indigo max-w-none">
+        I kept doing <a href="https://www.php.net/">PHP</a> and also used it in some internships I did. After finishing an IT specialized business school 
+        and doing a German apprenticeship, I started my first job as TYPO3-developer (a popular PHP-based CMS-system). 
+        I even published some small extensions on the TYPO3 extension gallery.
+        Later on, I switched job to a more generalized <a href="https://www.php.net/">PHP</a> full-stack engineer. 
+        After working multiple years, I decided to quit and go traveling for a while.
+        Then when coming back to Germany, I moved to Berlin where I started to studying at HTW Berlin, 
+		a little later I started working  as a frontend engineer in part-time.
+		 During my studies, I also found interest in developing methods of artificial intelligence with neural networks.
+        Later I focused more on methods of bioinformatics, studying the creation of pipelines for next generation sequencing data.
+		I always kept up to date with developing websites. My main interest is the frontend part. 
+		I used many frameworks like <a href="https://angular.io/">Angular</a>, <a href="https://reactjs.org/">React</a>,
+		<a href="https://vuejs.org/">VueJS</a> and <a href="https://tailwindcss.com/">Tailwind CSS</a>.
+        Recently, <a href="https://svelte.dev/">Svelte</a> (especially Svelte Kit) caught my attention and I also create this website with it.      
+	</p>
 </div>
