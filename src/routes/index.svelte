@@ -20,7 +20,7 @@
         I even published some small extensions on the TYPO3 extension gallery.
         Later on, I switched job to a more generalized <a href="https://www.php.net/">PHP</a> full-stack engineer. 
         After working multiple years, I decided to quit and go traveling for a while.
-        Then when coming back to Germany, I moved to Berlin where I started to studying at HTW Berlin, 
+        Then when coming back to Germany, I moved to Berlin where I started to studying at <a href="https://www.htw-berlin.de/"></a>HTW Berlin, 
 		a little later I started working  as a frontend engineer in part-time.
 		 During my studies, I also found interest in developing methods of artificial intelligence with neural networks.
         Later I focused more on methods of bioinformatics, studying the creation of pipelines for next generation sequencing data.
